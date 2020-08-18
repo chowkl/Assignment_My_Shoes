@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228017552228",
+    "firebase_url": "https://assignment-my-shoes.firebaseio.com",
+    "project_id": "assignment-my-shoes",
+    "storage_bucket": "assignment-my-shoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228017552228:android:6ac785a5797c5df1c25871",
+        "android_client_info": {
+          "package_name": "com.example.splashactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228017552228-j9ctm51p9ff2hmcfqef32ql6q0443f6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.splashactivity",
+            "certificate_hash": "475d9db91bd18a99aa36aef14212854d3edfe988"
+          }
+        },
+        {
+          "client_id": "228017552228-q1pfkrlarvcjrpll5kn7bbklifvli2l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4nn_x8IEgVjohi3cgY1bmzJ_PurNSUtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228017552228-q1pfkrlarvcjrpll5kn7bbklifvli2l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
